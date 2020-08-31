@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "mixincompat",
+    "name": "Mixin Compatibility",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["NotStirred"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

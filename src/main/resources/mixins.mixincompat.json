@@ -1,0 +1,8 @@
+{
+  "package": "io.github.notstirred.mixincompat.mixin",
+  "refmap": "mixins.mixincompat.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ]
+}
